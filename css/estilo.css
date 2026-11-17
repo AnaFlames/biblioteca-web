@@ -1,0 +1,11 @@
+body { font-family: system-ui, sans-serif; margin: 0; color: #1f2430; background: #f6f7fb; }
+header { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; padding: 16px 24px; background: #1f2430; color: #fff; }
+header h1 { margin: 0; font-size: 1.4rem; }
+nav { margin-left: auto; }
+nav a { color: #ffb38a; }
+main { max-width: 760px; margin: 24px auto; padding: 0 16px; }
+table { border-collapse: collapse; width: 100%; background: #fff; }
+th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid #dde1ea; }
+th { background: #eef0f6; }
+.aviso { padding: 12px; background: #fbe5e5; border-left: 4px solid #c0392b; }
+footer { text-align: center; color: #5b6170; font-size: .85rem; padding: 24px; }
